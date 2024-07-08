@@ -14,4 +14,4 @@ Como correr el proyecto de forma local:
 
 Rutas: 
 - ['/'](http://localhost:8080/): home donde se visualizan los productos. 
-- ['/realtimeproducts' ](http://localhost:8080/realtimeproducts): Formulario para agreagar y eliminar productos. 
+- ['/realtimeproducts' ](http://localhost:8080/realtimeproducts): formulario para agreagar y eliminar productos. 
